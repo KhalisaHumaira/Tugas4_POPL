@@ -47,4 +47,4 @@ jobs:
           context: .
           platforms: linux/arm64
           push: true
-          tags: khalisahumaira/tugas_popl:latest
+          tags: khalisahumaira/tugas4_popl:latest
